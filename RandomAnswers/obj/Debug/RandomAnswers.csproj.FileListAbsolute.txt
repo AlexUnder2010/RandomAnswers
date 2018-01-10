@@ -1,0 +1,9 @@
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\bin\Debug\RandomAnswers.exe.config
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\bin\Debug\RandomAnswers.exe
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\bin\Debug\RandomAnswers.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\obj\Debug\RandomAnswers.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\obj\Debug\RandomAnswers.Form1.resources
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\obj\Debug\RandomAnswers.Properties.Resources.resources
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\obj\Debug\RandomAnswers.csproj.GenerateResource.Cache
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\obj\Debug\RandomAnswers.exe
+c:\users\alexandr\documents\visual studio 2013\Projects\RandomAnswers\RandomAnswers\obj\Debug\RandomAnswers.pdb
